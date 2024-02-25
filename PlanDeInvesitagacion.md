@@ -78,8 +78,6 @@
 
 5.- ¿Qué dificultades encuentra el gimnasio en la gestión de sus usuarios tanto en las actividades puntuales como en las generales?
 
-6.- ¿Qué busca realmente el usuario cuando busca información a cerca de algún gimnasio específico?
-
 **Metodología:** La metodología que se va a seguir a lo largo de todo el desaroollo es la centrada en el usuario
 
 **Participantes:**
@@ -87,4 +85,38 @@
 -   Monitores del gimnasio, que son expertos en la enseñanza de actividades específicas como profesores de spinning, de TRX, de Crossfit, que conocen cómo funcionan los grupos de personas en un gimnasio y conocen como organizar a los usuarios
 -   Dueños de gimnasios que nos transmitan las necesidad que tienen a la hora de la gestión, tanto del personal como de los usuarios y de las actividades que se ofertan por el gimnasio.
 
-**Guión:** Por determinar
+**Guión:** 
+
+1)  ¿Qué dificultades encuentran el usuario promedio a la hora de encontrar información sobre ejercicios, tanto especifico como general, que pueden realizar en los gimnasios?
+
+    Normalmente, los usuarios que suelen buscar información nueva a cerca de los gimnasios suelen ser personas inexpertas o principiantes que aún no han desarrollado el conocimiento necesario para conocer y realizar correctamente los ejercicios. Los usuarios encuentran la misma problemática, es dificil encontrar un conjunto de información a cerca de ejercicios que esté recogido en una misma página y sea de calidad
+
+    También encuentra poca información a cerca de gimnasios que no son tan comerciales, como lo sería uno de barrio, debido a que no disponen de un sistio web y la mayoría de personas que van a iniciarse en el mundo suelen ser jóvenes por lo que no suelen ir a preguntar al establecimiento en caso de no tener este sitio web.
+
+2) ¿En qué se interesa realmente el usuario que busca infomrmación acerca de ejercicios?
+
+    El usuario que busca infomración a cerca de ejercicio busca encontrar, principalmente, un conjunto de ejercicios destinados a un músculo o grupos musculares. Algunos ejemplos de búsquedas podrían ser "Ejercicios pecho" o "ejercicios biceps" o "Ejercicios tren inferior". 
+
+    Una vez que el usuario dispone del conjunto de ejercicios relacionados con sus necesidades, el usuario necesita encontrar la metodología o pasos a seguir y consejos para la correcta realización del ejercicio evitando lesiones. Una serie de videos explicativos donde se muestre gráficamente y se explique la mecánica por cada ejercicio sería un gran resultado a encontrar por el usuario ya que resuelve su demanda al completo.
+
+3) ¿Qué dificultades encuentra el usuario a la hora de comunicar sus inquietudes con los gimnasios?
+
+    Los usuarios de gimnasio suelen hacer comparaciones entre la variedad de clases y maquinaria de la que dispone su gimnasio y, muchas veces, suele ser un factor determinante que hace que un usuario se decante por un estblecimiento u otro.
+
+    Los usuarios que se fijan a primera vista en la cantidad de máquinas de las que dispone un gimnasio, son usuarios inexpertos que buscan en las máquinas la solución a las dudas que tienen a cerca de la realización de ejercicios ya quue solo se utilizan de una forma determinada que, a demás, suele venir explicada en algún lateral de la máquina. Sin embargo, a medida que se hace experto, se observa que los usuarios optan por ejercicios de peso libre al ser más completos.
+
+    En general, los usuarios no suelen comunicar al gimnasio sus necesidades debido a la falta de confianza que existe normalmente entre monitor y usuario debido a que es un sitio al que las personas no acostumbran a ir y hasta que no se vuelven expertos no están realmente cómodos. Por eso un foro podría ayudar a la comunicación al ser algo más privado puede favorecer a que comienza esa comunicación.
+
+4) ¿Qué dificiltades encuentra el gimnasio para comunicar las actividades?
+
+    Algunos gimnasios ofertan clases, excursiones, convivencias, etc. Pero realmente son pocos usuarios los que disfrutan de estas actividades en gran parte debido a la poca capacidad que tienen los gimnasios de publicitarse a sus propios usuarios más alla de pegando algún que otro cartel dentro del establecimiento que poca gente ve. 
+    
+    Un tablón de anuncios en el sitio web podría dar visibilidad a estas actividades de una forma más llamativa, ya sea porque se mejora la calidad de los anuncios o porque se notifica personalmente a los usuarios de alguna nueva actividad a la que pueden apuntarse y exprimir realmente todo lo que el gimnasio puede ofrecer.
+
+5) ¿Qué dificultades encuentra el gimnasio en la gestión de sus usuarios tanto en las actividades puntuales como en las generales?
+
+    Los gimnasios suelen tener programas, normalmente para sistemas operativos antiguos, que se encargan del control de acceso a un gimnasio reconociendo a cada usuario mediante una pulsera o tarjeta NFC. Los gimnasios más tradicionales aún gestionan a los usuarios mediante papel y boli lo que demanda demasiado tiempo que los gimnsasios podrían destinar a la realización de otras actividades.
+
+    Los cobros a los usuarios suelen realizarse en mano en el propio establecimiento, lo que requiere de una persona físicamente en la entrada del establecimiento comprobando si cada persona ha realizado el pago del mes correspondiente, o no.
+
+    Cuando el gimnasio oferta actividades con un número de plazas limitadas coordinar las reservas para clases o actividades específicas puede ser un desafío. Asegurarse de que los usuarios tengan acceso a las clases deseadas y evitar el exceso de reservas puede requerir un sistema eficiente y quizá esto no se consiga de forma manual de una manera sencilla. 
