@@ -120,3 +120,89 @@
     Los cobros a los usuarios suelen realizarse en mano en el propio establecimiento, lo que requiere de una persona físicamente en la entrada del establecimiento comprobando si cada persona ha realizado el pago del mes correspondiente, o no.
 
     Cuando el gimnasio oferta actividades con un número de plazas limitadas coordinar las reservas para clases o actividades específicas puede ser un desafío. Asegurarse de que los usuarios tengan acceso a las clases deseadas y evitar el exceso de reservas puede requerir un sistema eficiente y quizá esto no se consiga de forma manual de una manera sencilla. 
+
+### ANTEPROYECTO
+
+**Título:**
+
+FitNetCentral
+
+**Breve descripción del proyecto:** 
+
+El proyecto va enfocado a la creación de un sitio web que contenga información sobre las actividades que un usuario puede realizar en el gimnasio. Se recoge una selección de ejercicios por cada músculo o grupo muscular de manera que el usuario final sea capaz de aprender, por sí mismo con ayuda de la información que se encuentra recogida, a realizar rutinas y ejercicios de forma que evite lesiones y obtenga el rendimiento esperado.
+
+A demás, se ofrecerá un sistema de control para ayudar a los gimnasios a administrar a sus usuarios en tareas como pago de mensualidades, oferta de plazas para actividades, junto con un tablón de anuncios y un foro donde se fomente la comunicación entre gimnasio y usuarios.
+
+
+
+**Breve descripción de la organización:**
+
+La organización está compuesta únicamente por un estudiante de ingeniería informática que sufrió la falta de información accesible en la web relacionada con el mundo del fitness en los gimnasios para usuarios inexpertos.
+
+**Tipo de proyecto:**
+
+Proyecto de desarrollo
+
+**Propósitos y objetivos del proyecto**
+
+1.- Facilitar el acceso a información contrastada al usuario inexperto/experto de los gimnasios para que, por su propia cuenta, pueda realizar sus planes de entrenamiento. 
+
+2.- Mejorar la comunicación entre gimnasio y usuario final respecto a actividades, equipamiento, convivencias, torneos, entre otros.
+
+3.- Proporcionar los medios necesarios para la gestión de actividades propuestas por el gimnasio tales como apuntarse a actividades con plazas limitadas, calendario con actividades mensuales fijas, entre otras.
+
+**Palabras clave**
+
+Entrenamiento, Clases, Membresía, Horarios, Equipamiento, Nutrición, Monitores, Eventos, Reservas, Testimonios, Instalaciones, Contacto, Movimientos, Musculatura principal, Sistema Muscular, Músculos Esqueléticos, Músculos del Tronco, Músculos de las Extremidades Superiores, Músculos de las Extremidades Inferiores, Músculos Estabilizadores, Músculos Motores Principales, Músculos Antagonistas, Músculos Sinérgicos, Músculos Isolados, Grupos Musculares Principales.
+
+**Metodología**
+
+La metodología utilizada en el desarrollo del proyecto estará divida entres partes:
+
+1)   La primera parte será la de Planificación, que tendrá la duración de un mes. Este mes es el de Febrero 2024 y durante esta etapa realizaremos:
+
+-   Especificación y planteamiento del proyecto
+-   Anteproyecto del Sitio web
+-   Examinando el Sitio web-Pruebas de usabilidad
+
+2)  La segunda parte será la de diseño. La duración será de otro mes, en este caso Marzo 2024. En ella realizaremos:
+
+-   Contexto (esta información sería una definición más concreta del proyecto de acuerdo a las conclusiones obtenidas en toda la fase de recogida de información y análisis de la fase de planificación).
+-   AI Personas (Arquetipos de usuario, investigación sobre personas si es necesario entrevistas a expertos)
+-   AI Contenidos: Qué contenido hay, qué contenido se necesita
+-   Diseño de la AI
+-   Diseño de la Navegación
+-   Diseño Visual (requisitos, criterios relacionados con aspecto visual, elementos de interacción)
+
+3)  La tercera y última parte será la de Implementación que tendrá, de nuevo, una duración aproximada de un mes. El mes de Abril 2024 se destinará a esta tarea.
+
+**Resultados esperados**
+
+Los resultados esperados principalmente por parte de los usuarios:
+
+1)  Mejora del Conocimiento Anatómico: Los usuarios ganarán una comprensión más profunda de la estructura y función de sus músculos.
+
+2)  Optimización del Entrenamiento: La información facilitará la creación de rutinas de entrenamiento más efectivas y enfocadas en grupos musculares específicos.
+
+3)  Desarrollo Muscular Equilibrado: Al dirigirse a diferentes grupos musculares, se promoverá un desarrollo muscular equilibrado en el cuerpo.
+
+Los resultados esperados por parte de los gimnasios:
+
+1)  Fidelización de Clientes: Proporcionar recursos educativos puede aumentar la retención de clientes, ya que aquellos que comprenden mejor su entrenamiento son más propensos a comprometerse a largo plazo
+
+2)  Diferenciación Competitiva: Un sitio web educativo y enfocado en grupos musculares puede diferenciar al gimnasio de la competencia, destacando su compromiso con el bienestar integral de los clientes.
+
+3)  Participación Activa: La información educativa puede motivar a los clientes a participar activamente en eventos, clases y programas especiales, fortaleciendo su conexión con el gimnasio.
+
+**Requisitos**
+
+Requisitos Hardware: En este caso, los requisitos hardware no serán restrictivos
+1)  Procesador: 1.6GHz o superior. La mayoría de dispositivos actuales bastan
+2)  Memoria RAM: 2GB o superior. La página podrá ser soportada con esta cantidad
+3)  Almacenamiento: 128GB HDD/SSD en este caso es indiferente.
+4)  Conexión a Internet: Recomendable una conexión de banda ancha para tener un acceso rápido a la infomración
+
+Requisitos Software: 
+
+1)  Navegador actualizado compatible con estándares web (Chrome, Mozilla Firefox, Safari entre otros)
+2)  Sistema operativo compatible con el acceso a un sitio web (Windows, macOs, entre otros)
