@@ -206,3 +206,49 @@ Requisitos Software:
 
 1)  Navegador actualizado compatible con estándares web (Chrome, Mozilla Firefox, Safari entre otros)
 2)  Sistema operativo compatible con el acceso a un sitio web (Windows, macOs, entre otros)
+
+
+### TEST HEURÍSTICO
+
+**Página a analizar:**  https://www.entrenamientos.com/
+
+**Aspectos Generales**
+
+1)  ¿Cuáles son los objetivos del sitio web?¿Son claros y bien definidos?
+
+    Los objetivos del sitio web están perfectamente definidos desde el primero momento. En la parte principal de la pantalla. Leemos perfectamente _Crea tus ejercicios con 1134 ejercicios_ dandonos desde el principio el propósito del sitio web
+
+2)  ¿Los contenidos y servicios que se ofrecen corresponden con esos objetivos?
+
+    Sí, en la página se permite la creación de tus entrenamientos desde el primer momento. Es perfectamente visible después de ver el objetivo principal del sitio web.
+
+3)  ¿Tiene una URL correcta, clara y fácil de recordar? ¿Y las URL de sus páginas internas?
+¿Son claras y permanentes?
+
+    La URL del sitio es muy sencilla y por lo tanto muy fácil de recordar. _entrenamientos.com_ es un nombre muy sencillo que va directamente relacionado con la funionalidad que ofrecerá la página.
+
+4)  ¿Muestra de forma precisa y completa qué contenidos o servicios ofrece realmente el sitio
+web?
+
+    Junto con la funcionalidad principal que ofrece la página, crear entrenamientos, encontramos el resto de funcionalidades que ofrece. Guardar y editar los entrenamientos que  ya tengas o compartirlos. Es una forma muy directa de dar al usuario las funcionalidades que ofrecen quedando claro desde primer momento cuales son sus intenciones.
+
+5)  ¿La estructura general del sitio web está orientada al usuario?
+
+    La estructura del sitio es realmente sencilla e intuitiva. Pocos colores y organización muy simple de las funcionalidades e información
+
+6)  ¿El look & feel general se corresponde con los objetivos, características, contenidos y
+servicios del sitio web?
+
+    Realmente el sitio no ofrece el estilo que creo que es adecuado para los potenciales usuarios que utilicen el sitio y no se siente como algo elaborado que vaya a ofrecer un buen resultado. Aún así todas las funcionalidades se desarrollan perfectamente.
+
+7)  ¿Es coherente el diseño general del sitio web?
+
+    Dentro del aspecto que han decidio utilizar para mostrar y ofrecer los contenidos y servicios del sitio sí lo es. Todo sigue una misma estética y no da lugar a confusión. 
+
+8)  ¿Es reconocible el diseño general del sitio web?
+
+    El diseño del sitio no es un diseño característico con el que un usuario se pueda quedar impoctado. Es un aspecto bastante general de un sitio web cualquiera.
+
+**Identidad e información**
+
+1)  
