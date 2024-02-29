@@ -222,6 +222,8 @@ Requisitos Software:
 
     Sí, en la página se permite la creación de tus entrenamientos desde el primer momento. Es perfectamente visible después de ver el objetivo principal del sitio web.
 
+    ![estilo](/imagenes/principal.png)
+
 3)  ¿Tiene una URL correcta, clara y fácil de recordar? ¿Y las URL de sus páginas internas?
 ¿Son claras y permanentes?
 
@@ -235,6 +237,8 @@ web?
 5)  ¿La estructura general del sitio web está orientada al usuario?
 
     La estructura del sitio es realmente sencilla e intuitiva. Pocos colores y organización muy simple de las funcionalidades e información
+
+    ![estilo](/imagenes/formato1.png)
 
 6)  ¿El look & feel general se corresponde con los objetivos, características, contenidos y
 servicios del sitio web?
@@ -251,4 +255,242 @@ servicios del sitio web?
 
 **Identidad e información**
 
-1)  
+1)  ¿Se muestra claramente la identidad de la empresa-sitio a través de todas las páginas?
+
+    En todas las páginas a las que podemos acceder desde el sitio tenemos el logo principal situado siempre en el mismo lugar, la esquina superiror derecha. Tambiñén, aparece como pie en todas las páginas junto con el nombre del dominio y sus páginas de facebook y pinterest
+
+    ![ImagenLogo](/imagenes/cabecera.png)
+    ![PieDePagina](/imagenes/PieDePagina.png)
+
+2)  El logotipo, ¿es significativo, identificable y suficientemente visible?
+
+    El logotipo es muy identificable ya que es único pero falla en el significado debido a que es un rayo envuelto en una espiral que quizá no deje muy claro a que se dedica la página
+
+    ![ImagenLogo1](/imagenes/logo1.png)
+
+3)  El eslogan o tagline, ¿expresa realmente qué es la empresa y qué servicios ofrece?
+
+    Completamente, el slogan es únicamente repetir lo que la página está destinada a hacer _Crea tus entrenamientos con 1134 ejercicios_
+
+4) ¿Se ofrece algún enlace con información sobre la empresa, sitio web, 'webmaster',...?
+
+    ünicamente piedes acceder a un apartado de contacto que tienen disponible en el pie de página pero no incluye nada de información de la organización.
+
+5)  ¿Se proporciona mecanismos para ponerse en contacto con la empresa?
+
+    Sí, en el pie de página. Nos permiten contactar mediante un email con la empresa y sugerir cambios
+
+6)  ¿Se proporciona información sobre la protección de datos de carácter personal de los
+clientes o los derechos de autor de los contenidos del sitio web?
+
+    Sí, en el pie de página, junto al contacto tenemos avisos legales y política de privacidad.
+
+
+
+**Lenguaje y redacción**
+
+1)  ¿El sitio web habla el mismo lenguaje que sus usuarios?
+
+    Sí, contiene un tipo de palabras específicas al mundo del fitness, pero no son realmente muy específicas de modo que todo el mundo pueda comprenderlas.
+
+2)  ¿Emplea un lenguaje claro y conciso?
+
+    Sí
+
+3)  ¿Es amigable, familiar y cercano?
+
+    Por el diseño del sitio lo siento como algo frío, es la página que encotrarías normalmente para cualquier tipo de búsqueda sin importancia por lo que siento que no se han cuidado mucho a la hora del diseño y se hace frío.
+
+4)  ¿1 párrafo = 1 idea?
+
+    Realmente no incluye una serie de párrafos que describan información, el sitio se basa en un conjunto de ejercicios que están destinados a algo en particular. Por ejemplo, ejercicios terapéuticos para prótesis de rodilla junto con esos ejercicios pero no incluyen ninguna explicación. 
+
+
+
+**Rotulado**
+
+1)  Los rótulos, ¿son significativos?
+
+    No, los únicos rotulados que encontramos son a la hora de ver cuantas series y cuantas repeticiones hemos de hacer por cada ejercicio del entrenamiento.
+
+    ![rotulado](/imagenes/Rotulado.png)
+
+    _Como no ha incluido más rotulados, no tiene sentido seguir evaluando esta parte a excepción de la siguiente_
+
+2)  El título de las páginas, ¿es correcto? ¿ha sido planificado?
+
+    Sí, ya que se refiere directamente al apartado donde te encuentres. Es exactamente el mismo nombre del lugar donde pinchaste
+
+
+**Estructura y navegación**
+
+1)  La estructura de organización y navegación, ¿es la más adecuada?
+
+    Creo que no debido a que ofrece pocas posibilidade para poder desplazarte entre las diferentes partes del sitio sin perder los avances que hayas realizado en alguna parte si quieres consultar algo de información del mismo sitio.
+
+2)  En el caso de estructura jerárquica, ¿mantiene un equilibrio entre profundidad y anchura?
+
+    Realmente sí debido a que para avanzar en profundidad tienes que hacerlo también en anchura al tener que consultar información antes de seguir avanzando
+
+3)  En el caso de ser puramente hipertextual, ¿están todos los nodos comunicados?
+
+    No lo es
+
+4)  ¿Los enlaces son fácilmente reconocibles como tales? ¿Su caracterización indica su
+estado (visitados, activos,...)?
+
+    Los enlaces son reconocibles no por el hecho de ser enlaces y estar resaltados si no porque son apartados los que podemos dirigirnos.
+
+    ![enlaces](/imagenes/formato1.png)
+
+5)  En menús de navegación, ¿se ha controlado el número de elementos y de términos por
+elemento para no producir sobrecarga memorística?
+
+    No, puedes acceder a todo tipo de enlaces ya desde el principio. Estos enlaces no están bien clasificados porque encuentras todos directamente y no tienes ninguna forma de filtrarlos.
+
+6)  ¿Es predecible la respuesta del sistema antes de hacer clic sobre el enlace?
+
+    No, al dar click a un enlace, por ejemplo, _escoliosis_ esperas que se habla un poco de escoliosis, de los problemas de salud que genera y proposiciones de ejercicios que vengan bien. Sin embargo, enconrtamos directamente una serie de ejercicios recomendados sin ninguna explicación más allá de que hemos de realizarlos con supervisión.
+
+7)  ¿Se ha controlado que no haya enlaces que no llevan a ningún sitio?
+
+    Por lo que he encontrado sí.
+
+8)  ¿Existen elementos de navegación que orienten al usuario acerca de dónde está y cómo
+deshacer su navegación?
+
+    Sí, permite la vuelta atrás y también en cada página donde nos encontramos nos lo muestra 
+
+    ![ubi1](/imagenes/ubicacion1.png)
+
+9)  Las imágenes enlace, ¿se reconocen como clicables? ¿incluyen un atributo 'title'
+describiendo la página de destino?
+
+    Las imágines de enlace podrían no ser enlaces perfectamente. Parecen simplemente noticias sin mas. En cada imagen se incluye una descripción breve de que encontrarás tras clicar ese enlace.
+
+10) ¿Se ha evitado la redundancia de enlaces?
+
+    Sí porque no encuentras más enlaces que los existentes en la página de inicio hacia diferentes ejerciciso.
+
+**Layout de la página**
+
+1)  ¿Se aprovechan las zonas de alta jerarquía informativa de la página para contenidos de
+mayor relevancia?
+
+    Aquí aparecen tanto el eslogan como las funcionalidades principales
+
+2)  ¿Se ha evitado la sobrecarga informativa?
+
+    No. Desde el principio nos encontramos con toda la colección de ejercicios predefinidos que ofrece la página.
+
+3) ¿Es una interfaz limpia, sin ruido visual?
+
+    El propio estilo hace que esta sea limpia, sin embargo el contenido que tiene genera ruido visual al tener demasiados colores e imágenes diferentes estre sí.
+
+4)  ¿Existen zonas en "blanco" entre los objetos informativos de la página para poder
+descansar la vista?
+
+    Son inexistentes.
+
+5)  ¿Se hace un uso correcto del espacio visual de la página?
+
+    Se distribuye bien la escasa infomración que se ofrece
+
+6) ¿Se ha controlado la longitud de página?
+
+    Sí, al estar muy separados los ejercicios y no tener mucha infomración no se extiende mucho
+
+
+**Elemento Multimedia**
+
+1)  ¿Las fotografías están bien recortadas? ¿son comprensibles? ¿se ha cuidado su
+resolución?
+
+    Todas están recortadas y son comprensibles pero la resolución no se ha cuidado debido a la disparidad que existe entre todas las imágenes y sus diseños.
+
+2)  ¿Las metáforas visuales son reconocibles y comprensibles por cualquier usuario?
+
+    No existe un conjunto de metáforas destinadas al diseño de la página.
+
+3)  ¿El uso de imágenes o animaciones proporciona algún tipo de valor añadido?
+
+    Ninguno, al ser todas las imágenes dispares no aportan ningún valor
+
+4) ¿Se ha evitado el uso de animaciones cíclicas?
+    
+    Sí
+
+**Ayuda**
+
+1) Si posee una sección de ayuda, ¿Es verdaderamente necesaria?
+
+    No posee ayuda, solo contacto
+
+2) ¿Se ofrece ayuda contextual en tareas complejas?
+
+    No existe
+
+3)  Si posee FAQs, ¿es correcta tanto la elección como la redacción de las preguntas? ¿y las
+respuestas?
+
+    No existe
+
+
+**Accesibilidad**
+
+1)  ¿El tamaño de fuente se ha definido de forma relativa, o por lo menos, la fuente es lo
+suficientemente grande como para no dificultar la legibilidad del texto?
+
+    Sí, el tamaño de la letra es comprensible facilmente pero quizás, el color y el tipo de la fuente no ayude a distinguir la cantidad de repeticiones y series
+
+2)  ¿El tipo de fuente, efectos tipográficos, ancho de línea y alineación empleados facilitan la lectura?
+
+    No, por los colores seleccionados en la parte específica de número de series y repeticiones
+
+    ![conjuntoReps](/imagenes/conjuntoReps1.png)
+
+3)  ¿Existe un alto contraste entre el color de fuente y el fondo?
+
+    Dependiendo del apartado
+
+4)  ¿Incluyen las imágenes atributos 'alt' que describan su contenido?
+
+    Las imágenes de los ejercicios son una simple representación gráfica de lo que viene descrito por cada ejercicio por lo que, realmente, las imágenes vienen descritas por los pasos a hacer.
+
+5)  ¿Es compatible el sitio web con los diferentes navegadores? ¿se visualiza correctamente
+con diferentes resoluciones de pantalla?
+
+    Sí, se puede visualizar en todos los navegadores pero tiene el fallo de que algunos textos se salen de las cajas para los que están diseñados dependiendo de si lo pones en media pantalla.
+
+6)  ¿Puede el usuario disfrutar de todos los contenidos del sitio web sin necesidad de tener
+que descargar e instalar plugins adicionales?
+
+    Sí. Todo está disponible en web
+
+
+**Control y retroalimentación**
+
+1)  ¿Tiene el usuario todo el control sobre el interfaz?
+
+    Sí. Puede acceder y moverse libremente por ella
+
+2)  ¿Se informa constantemente al usuario acerca de lo que está pasando?
+
+    Solo cuando se incluyen ejercicios o cambios en los entrenamientos que diseñes
+
+3)  ¿Se informa al usuario de lo que ha pasado?
+
+    Sí, con un mensaje del siguiente tipo
+
+    ![msg](/imagenes/tipoMensajes.png)
+
+4)  ¿Posee el usuario libertad para actuar?
+
+    Sí, usuario puede decidir que hacer en cualquier momento a pesar de poder perder los cambios como bien se avisa mediante notificaciones
+
+5)  ¿Se ha controlado el tiempo de respuesta?
+
+    Sí, los tiempos de respuesta son breves
+
+
+
