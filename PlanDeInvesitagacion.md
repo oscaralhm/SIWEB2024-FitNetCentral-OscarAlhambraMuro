@@ -493,4 +493,494 @@ que descargar e instalar plugins adicionales?
     Sí, los tiempos de respuesta son breves
 
 
+**==========================================================================================**
 
+
+### TEST HEURÍSTICO
+
+**Página a analizar:**  https://www.musculacion.net/
+
+**Aspectos Generales** 
+
+1)  ¿Cuáles son los objetivos del sitio web?¿Son claros y bien definidos?
+
+    Los objetivos generales de este sitio es ofrecer la posibilidad de diseñar tus propios ejercicios y entrenamientos
+
+2)  ¿Los contenidos y servicios que se ofrecen corresponden con esos objetivos?
+
+    Sí, consultar y gestionar los ejercicios y entrenamientos tanto por si solos como por grupos musculares
+
+3)  ¿Tiene una URL correcta, clara y fácil de recordar? ¿Y las URL de sus páginas internas?
+¿Son claras y permanentes?
+
+    Sí, musculación.net es un dominio fácil de recordar y directamente relacionado con el objetivo del sitio
+
+4)  ¿Muestra de forma precisa y completa qué contenidos o servicios ofrece realmente el sitio
+web?
+
+    Sí, en la parte superior destacan todas las funcionalidades que se ofrecen
+    ![cabecera2](/imagenes/cabecera2.png)
+
+5)  ¿La estructura general del sitio web está orientada al usuario?
+
+    Sí, es muy facil acceder directamente a los ejercicios que desees. A demás, los ejercicios están muy bien estructurados, tanto por ejercicios simples como compuestos y muy accesibles para el usuario
+
+6)  ¿El look & feel general se corresponde con los objetivos, características, contenidos y
+servicios del sitio web?
+
+    El look & feel corresponde con los objetivos y características que ha de ofrecer un sitio web que ofrece servicios de este estilo. Es simple y conciso
+
+    ![lookfeel](/imagenes/look&feel.png)
+
+7)  ¿Es coherente el diseño general del sitio web?
+
+    El diseño del sitio es coherente al mantener siempre el mismo estilo. Tanto cabecera como pie de página y menú se mantienen iguales por lo que la se hace intuitivo la navegación
+
+8)  ¿Es reconocible el diseño general del sitio web?
+
+    Sí, el diseño general puede ser reconocido debido a los colores y el estilo aunque es un formato que es usado en muchas páginas web
+
+**Identidad e información**
+
+1)  ¿Se muestra claramente la identidad de la empresa-sitio a través de todas las páginas?
+
+    Sí, lo único que cambia al ir intercambiando las páginas es el contenido principal ya que tanto el menú prinipal como el conjunto de ejercicios posibles se mantinen igual por lo que el logo se mantiene presente en toda la página 
+
+    ![cabecera2](/imagenes/cabecera2.png)
+
+2)  El logotipo, ¿es significativo, identificable y suficientemente visible?
+
+    El logotipo es significativo ya que es un hombre realizando un curl de bíceps por lo que se puede intuir a que está destinada la página web. Es también suficientemente visible debido a que aparece por todas las páginas. Sin embargo, no es muy identificable ya que el logo es la típica imagen se utiliza cuando se refiere a un gimnasio por lo que al verlo quizá no se consiga el resultado que se espera
+
+    ![logo2](/imagenes/logo2.png)
+
+3)  El eslogan o tagline, ¿expresa realmente qué es la empresa y qué servicios ofrece?
+
+    No se aprecia realmente un eslogan principal que defina la funcion del sitio web
+
+4) ¿Se ofrece algún enlace con información sobre la empresa, sitio web, 'webmaster',...?
+
+    No se proporciona ningún enlace que muestre infomración sobre los objetivos de la empresa, sin embargo, encontramos en el pie de página algo de información a cerca de _musculacion.net_
+
+    ![piepag2](/imagenes/piePagina2.png)
+
+5)  ¿Se proporciona mecanismos para ponerse en contacto con la empresa?
+
+    Sí, se ofrece una posibilidad de contacto donde se pueder dar un mensaje al sitio para enviar alguna demanda 
+
+6)  ¿Se proporciona información sobre la protección de datos de carácter personal de los
+clientes o los derechos de autor de los contenidos del sitio web?
+
+    Sí, tenemos el aviso legal donde se nos explica tanton las condiciones de uso como la política de privacidad
+
+
+**Lenguaje y redacción**
+
+1)  ¿El sitio web habla el mismo lenguaje que sus usuarios?
+
+    Sí, encontramos palabras que son orientdas a los usuarios principiantes al mundo del fitness por lo que todo el mundo puede acceder.
+
+2)  ¿Emplea un lenguaje claro y conciso?
+
+    Sí, define los ejercicio rápidamente aunque incluye una introducción previa donde se pone en contexto el ejercicio junto con una descripción paso a paso del procedimiento a seguir para realizar el ejercicio. 
+
+    Se estructuran los pasos para la realización del entrenamiento separados claramente por las partes que lo componen por lo que queda muy claro
+
+3)  ¿Es amigable, familiar y cercano?
+
+    Sí, es bastante cercano por lo que la introducción se hace muy amena y los ejercicios vienen bien definidos
+
+4)  ¿1 párrafo = 1 idea?
+
+    Sí, aunque en alunas ocasiones se necesitan más de uno para concluir la introducción, por ejemplo, se sigue aplicando la norma de 1 párrafo = 1 idea
+
+
+**Rotulado**
+
+1)  Los rótulos, ¿son significativos?
+
+    Los rótulos están muy bien utilizados ya que implican la separación entre las partes del entrenamiento. Estas separaciones indican a la perfección en que parte nos encontramos y que partes ejercitamos
+
+    ![rotulos2](/imagenes/rotulos2.png)
+
+2) ¿Usa un único sistema de organización, bien definido y claro?
+
+    Sí, en todos los apartados de los ejercicios encontramos el mismo modelo de estructuración de los pasos a seguir, por lo que el modelo queda perfectamente definido
+
+3)  ¿Utiliza un sistema de rotulado controlado y preciso?
+
+    Sí, utiliza un control preciso del rotulado ya que siempre aparece para la división del las fases de un ejercicio.
+
+4)  El título de las páginas, ¿es correcto? ¿ha sido planificado?
+
+    Sí, las páginas están bien nombradas debido a que referencian perfectamente en que lugar del sitio estamos.
+
+**Estructura y navegación**
+
+1)  La estructura de organización y navegación, ¿es la más adecuada?
+
+    La estructura utilizada es realmente simple y creo, adecuada para el tipo de usuario que puede acceder al sitio web. La información es accesible desde el primer momento y durante toda la búsqueda de forma simple.
+
+2)  En el caso de estructura jerárquica, ¿mantiene un equilibrio entre profundidad y anchura?
+
+    En este caso, se mantiene un equilibrio ya que para continuar avanzando a lo largo de los temas sobre los que lee el usuario ha de ir visitando otros para poder ir completando el entrenamiento
+
+3)  En el caso de ser puramente hipertextual, ¿están todos los nodos comunicados?
+
+    No lo es
+
+4)  ¿Los enlaces son fácilmente reconocibles como tales? ¿Su caracterización indica su
+estado (visitados, activos,...)?
+
+    En este caso sí, los enlaces a cada uno de los tipos de ejercicios son fácilmente reconocibles desde que entras al sitio por primera vez. Aun así, no se muestran los enlaces ya visitados ni si están activos. De hecho existe algún enlace que te lleva al siguiente destino
+
+    ![malfin](/imagenes/malfin.png)
+
+5)  En menús de navegación, ¿se ha controlado el número de elementos y de términos por
+elemento para no producir sobrecarga memorística?
+
+    No, se muestran todas las opciones y toda la información directamente
+
+6)  ¿Es predecible la respuesta del sistema antes de hacer clic sobre el enlace?
+
+    No ya que el enlace no te redirecciona directamente a la información que demandas directamente si no que te lleva a otros submenús como el citado anteriormente, que quizá funcine o quizá no
+
+7)  ¿Se ha controlado que no haya enlaces que no llevan a ningún sitio?
+
+    No, como hemos comprobado existene enlaces a páginas vacías
+
+8)  ¿Existen elementos de navegación que orienten al usuario acerca de dónde está y cómo
+deshacer su navegación?
+
+    Si, por cada página a la que se accede se tiene un título del recorrido que se ha realizado desde el inicio hasta llegar a él
+
+    ![recorrido](/imagenes/recorrido.png)
+
+9)  Las imágenes enlace, ¿se reconocen como clicables? ¿incluyen un atributo 'title'
+describiendo la página de destino?
+
+    En este caso el propio enlace lleva implícita la descripción de la información que contiene. Como ejemplos: _Ejercicios animados_ o _Ejercicios para hombros_
+
+10) ¿Se ha evitado la redundancia de enlaces?
+
+    No, ya que de muchas formas distinitas podemos acceder a los mismos enlaces de distinta manera
+
+    ![mismosEnlaces](/imagenes/mismosenlaces.png)
+
+**Layout de la página**
+
+1)  ¿Se aprovechan las zonas de alta jerarquía informativa de la página para contenidos de
+mayor relevancia?
+
+    Sí, se muestran tanto las opciones disponibles como la ruta en la que estamos y las funciones principales
+
+2)  ¿Se ha evitado la sobrecarga informativa?
+
+    Si ya que al estar cada ejercicio estructurado de la misma manera se evita que la información se disperse y pueda contener información indeseada o inapropiada
+
+3) ¿Es una interfaz limpia, sin ruido visual?
+    Sí, la interfaz no contiene elementos que destaquen negativamente ni que molesten al usuario cuando consulte la información
+
+4)  ¿Existen zonas en "blanco" entre los objetos informativos de la página para poder
+descansar la vista?
+
+    No existen
+
+5)  ¿Se hace un uso correcto del espacio visual de la página?
+
+    Sí, en la zona principal, que es la única que cambia, encontramos toda la información importante dejando la cabecera y el margen izquierdo para incluir los menús, operaciones principales y funciones
+
+6) ¿Se ha controlado la longitud de página?
+
+    No, la página se extiende tanto como información requiera el ejercicio
+
+**Elemento Multimedia**
+
+1)  ¿Las fotografías están bien recortadas? ¿son comprensibles? ¿se ha cuidado su
+resolución?
+
+    En la mayoría de casos, las imágenes no se cargan completamente. El resto de imágenes son poco profesionales
+
+2)  ¿Las metáforas visuales son reconocibles y comprensibles por cualquier usuario?
+
+    Las imágenes a las que se puede acceder son imágenes caseras que hacen referencias a las posiciones y ejercicios descritos en las diferentes categorías por lo que son comprensibles en conjunto con el texto
+
+3)  ¿El uso de imágenes o animaciones proporciona algún tipo de valor añadido?
+
+    Sí, aporta detalles gráficos sobre los ejercicios que se describen
+
+
+**Ayuda**
+
+1) Si posee una sección de ayuda, ¿Es verdaderamente necesaria?
+
+    La única sección de ayuda que posee es la de contacto con la empresa¡
+
+2) ¿Se ofrece ayuda contextual en tareas complejas?
+
+    No, no se ofrece ningún tipo de ayuda
+
+3)  Si posee FAQs, ¿es correcta tanto la elección como la redacción de las preguntas? ¿y las
+respuestas?
+
+    Podee un foro, pero no es accesible
+
+**Accesibilidad**
+
+1)  ¿El tamaño de fuente se ha definido de forma relativa, o por lo menos, la fuente es lo
+suficientemente grande como para no dificultar la legibilidad del texto?
+
+    El tamaño de la letra es perfectamente legible.
+
+2)  ¿El tipo de fuente, efectos tipográficos, ancho de línea y alineación empleados facilitan la lectura?
+
+    Sí, es una fuente típica a un buen tamaño  facilita todo
+
+3)  ¿Existe un alto contraste entre el color de fuente y el fondo?
+
+    Si
+
+4)  ¿Incluyen las imágenes atributos 'alt' que describan su contenido?
+
+    En algunas ocasiones
+
+    ![fotosRotas](/imagenes/fotosRotas.png)
+
+5)  ¿Es compatible el sitio web con los diferentes navegadores? ¿se visualiza correctamente
+con diferentes resoluciones de pantalla?
+
+    Sí, desde diferentes navegadores se puede acceder a pesar de poder encontrarnos con imágenes innaccesibles
+
+6)  ¿Puede el usuario disfrutar de todos los contenidos del sitio web sin necesidad de tener
+que descargar e instalar plugins adicionales?
+
+    Si
+
+
+**Control y retroalimentación**
+
+1)  ¿Tiene el usuario todo el control sobre el interfaz?
+
+    Sí, puede desplazarse libremente por todo el sitio
+
+2)  ¿Se informa constantemente al usuario acerca de lo que está pasando?
+
+    No, no tenemos notificaciones estilo pop-up ni nada similar que nos informe
+
+3)  ¿Se informa al usuario de lo que ha pasado?
+
+    No
+
+4)  ¿Posee el usuario libertad para actuar?
+
+    Sí, a pesar de poder perder cambios realizados
+
+5)  ¿Se ha controlado el tiempo de respuesta?
+
+    Sí, son prácticamente inmediatos
+
+
+### TEST HEURÍSTICO
+
+**Página a analizar:**  
+
+**Aspectos Generales**
+
+1)  ¿Cuáles son los objetivos del sitio web?¿Son claros y bien definidos?
+
+
+2)  ¿Los contenidos y servicios que se ofrecen corresponden con esos objetivos?
+
+
+3)  ¿Tiene una URL correcta, clara y fácil de recordar? ¿Y las URL de sus páginas internas?
+¿Son claras y permanentes?
+
+
+4)  ¿Muestra de forma precisa y completa qué contenidos o servicios ofrece realmente el sitio
+web?
+
+
+5)  ¿La estructura general del sitio web está orientada al usuario?
+
+
+6)  ¿El look & feel general se corresponde con los objetivos, características, contenidos y
+servicios del sitio web?
+
+
+7)  ¿Es coherente el diseño general del sitio web?
+
+
+8)  ¿Es reconocible el diseño general del sitio web?
+
+
+**Identidad e información**
+
+1)  ¿Se muestra claramente la identidad de la empresa-sitio a través de todas las páginas?
+
+
+2)  El logotipo, ¿es significativo, identificable y suficientemente visible?
+
+
+3)  El eslogan o tagline, ¿expresa realmente qué es la empresa y qué servicios ofrece?
+
+
+4) ¿Se ofrece algún enlace con información sobre la empresa, sitio web, 'webmaster',...?
+
+
+5)  ¿Se proporciona mecanismos para ponerse en contacto con la empresa?
+
+
+6)  ¿Se proporciona información sobre la protección de datos de carácter personal de los
+clientes o los derechos de autor de los contenidos del sitio web?
+
+
+
+
+**Lenguaje y redacción**
+
+1)  ¿El sitio web habla el mismo lenguaje que sus usuarios?
+
+
+2)  ¿Emplea un lenguaje claro y conciso?
+
+
+3)  ¿Es amigable, familiar y cercano?
+
+
+4)  ¿1 párrafo = 1 idea?
+
+
+
+**Rotulado**
+
+1)  Los rótulos, ¿son significativos?
+
+
+2)  El título de las páginas, ¿es correcto? ¿ha sido planificado?
+
+
+
+**Estructura y navegación**
+
+1)  La estructura de organización y navegación, ¿es la más adecuada?
+
+
+2)  En el caso de estructura jerárquica, ¿mantiene un equilibrio entre profundidad y anchura?
+
+
+3)  En el caso de ser puramente hipertextual, ¿están todos los nodos comunicados?
+
+
+4)  ¿Los enlaces son fácilmente reconocibles como tales? ¿Su caracterización indica su
+estado (visitados, activos,...)?
+
+
+5)  En menús de navegación, ¿se ha controlado el número de elementos y de términos por
+elemento para no producir sobrecarga memorística?
+
+
+6)  ¿Es predecible la respuesta del sistema antes de hacer clic sobre el enlace?
+
+
+7)  ¿Se ha controlado que no haya enlaces que no llevan a ningún sitio?
+
+
+8)  ¿Existen elementos de navegación que orienten al usuario acerca de dónde está y cómo
+deshacer su navegación?
+
+
+9)  Las imágenes enlace, ¿se reconocen como clicables? ¿incluyen un atributo 'title'
+describiendo la página de destino?
+
+
+10) ¿Se ha evitado la redundancia de enlaces?
+
+
+**Layout de la página**
+
+1)  ¿Se aprovechan las zonas de alta jerarquía informativa de la página para contenidos de
+mayor relevancia?
+
+
+2)  ¿Se ha evitado la sobrecarga informativa?
+
+
+3) ¿Es una interfaz limpia, sin ruido visual?
+
+
+4)  ¿Existen zonas en "blanco" entre los objetos informativos de la página para poder
+descansar la vista?
+
+
+5)  ¿Se hace un uso correcto del espacio visual de la página?
+
+
+6) ¿Se ha controlado la longitud de página?
+
+
+**Elemento Multimedia**
+
+1)  ¿Las fotografías están bien recortadas? ¿son comprensibles? ¿se ha cuidado su
+resolución?
+
+
+2)  ¿Las metáforas visuales son reconocibles y comprensibles por cualquier usuario?
+
+
+3)  ¿El uso de imágenes o animaciones proporciona algún tipo de valor añadido?
+
+
+4) ¿Se ha evitado el uso de animaciones cíclicas?
+    
+
+**Ayuda**
+
+1) Si posee una sección de ayuda, ¿Es verdaderamente necesaria?
+
+
+2) ¿Se ofrece ayuda contextual en tareas complejas?
+
+
+3)  Si posee FAQs, ¿es correcta tanto la elección como la redacción de las preguntas? ¿y las
+respuestas?
+
+
+**Accesibilidad**
+
+1)  ¿El tamaño de fuente se ha definido de forma relativa, o por lo menos, la fuente es lo
+suficientemente grande como para no dificultar la legibilidad del texto?
+
+
+2)  ¿El tipo de fuente, efectos tipográficos, ancho de línea y alineación empleados facilitan la lectura?
+
+
+3)  ¿Existe un alto contraste entre el color de fuente y el fondo?
+
+
+4)  ¿Incluyen las imágenes atributos 'alt' que describan su contenido?
+
+
+5)  ¿Es compatible el sitio web con los diferentes navegadores? ¿se visualiza correctamente
+con diferentes resoluciones de pantalla?
+
+
+6)  ¿Puede el usuario disfrutar de todos los contenidos del sitio web sin necesidad de tener
+que descargar e instalar plugins adicionales?
+
+
+
+**Control y retroalimentación**
+
+1)  ¿Tiene el usuario todo el control sobre el interfaz?
+
+
+2)  ¿Se informa constantemente al usuario acerca de lo que está pasando?
+
+
+3)  ¿Se informa al usuario de lo que ha pasado?
+
+
+4)  ¿Posee el usuario libertad para actuar?
+
+
+5)  ¿Se ha controlado el tiempo de respuesta?
