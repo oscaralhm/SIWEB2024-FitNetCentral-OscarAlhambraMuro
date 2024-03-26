@@ -1028,3 +1028,145 @@ resolución?
 5)  ¿Se ha controlado el tiempo de respuesta?
 
     Sí, son rápidos en todo momento
+
+## ETAPA DE DISEÑO
+
+### Documentación del contexto
+
+Para realizar la documentación sobre el contexto en el que se desarrollará nuestro sitio web, tendremos que responer las siguientes preguntas:
+
+1) Objetivos: ¿Cuáles son los objetivos o metas que se persiguen?
+
+2) Tecnología: ¿Cuáles son las oportunidades y las limitaciones de la tecnología?
+
+3) Diseño: ¿Existen restricciones de diseño que debe tener en cuenta?
+
+4) Políticas de Empresa: ¿Cómo trabaja la organización y cómo afectará esto a su proyecto?
+5) Partes Interesadas: ¿Quién está y quién debe participar en el proyecto?
+
+
+**¿Cuáles son los objetivos o metas que se persiguen?**
+
+El objetivo principal que persigue el usuario en nuestro sitio web es ampliar su conocimiento a cerca del mundo del gimnasio. 
+
+El usuario podrá encontrar información acerca de ejercicios, dependiendo de los grupos musculares o músculos individuales que desean fortalecer obteniendo información a cerca de ejercicios específicos o compuestos donde se involucren.
+
+**¿Cuáles son las oportunidades y las limitaciones de la tecnología?**
+
+Al ser un sitio web los usuarios podrán tener acceso prácticamente desde todos los dispositivos que dispongan conexión a internet de forma que el acceso a la información esté siempre disponible en caso de que necesiten consultar cualquier tipo de duda.
+
+A demás al ser un sitio web nos aseguramos de que pueda ser visible en todos los dispositivos (smartphones, tablets, ordenadores, ...) de manera que desde cualquier dispositivo tengamos acceso a internet.
+
+La única limitación que se presenta reside en el caso en que el ususario no tenga acceso a internet en el momento en que le surja cualquier tipo de duda o, simplemente, quiera entrar para consultar nuevos ejercicios en un entorno que no sea el habitual.
+
+Esta limitación no debería ser ningún problema porque en la mayoría de establecimientos relacionados con el fitness ya se dispone de una conexión a internet para clientes.
+
+**¿Existen restricciones de diseño que debe tener en cuenta?**
+
+Debemos tener en cuenta algunas restricciones básicas en el diseño como son el cumplimiento de la ley de protección de datos y asegurar la privacidad de los datos de los usuarios. 
+
+Otra de las restricciones del diseño sería que todos los enlaces a los que podamos acceder dentro del sitio hayan sido verificados y que todas las subventanas que pertenezcan al sitio web han de tener el mismo formato. 
+
+Tanto el logo como el estilo y el pie de página, que contendrá los datos de contacto, los avisos legales y la declaración de privacidad, serán constantes y deberán aparecer en todas y cada una de las páginas a las que podamos acceder desde el sitio.
+
+Las cookies aparecerán siempre en el primer contacto que tenga el usuario con la página web, ofreciendo las opciones que se consideren necesarias en esta etapa.
+
+Inicialmente, el idioma en el que se ofrecerá el sitio será el español aunque a futuro podrá incluir nuevos idiomas.
+
+**¿Cómo trabaja la organización y cómo afectará esto a su proyecto?**
+
+La organización tendrá siempre a disposición un correo corporativo al que se podrá contactar en caso de que los usuarios tengan algún tipo de duda o quieran aportar ideas o mejoras. Desde la organización agradecemos todo tipo de colaboración con nuestros usuarios e intentaremos fomentar que se nos de un feedback para que podamos mejorar juntos organización y usuario.
+
+En caso de llegar a acuerdos para realizar reuniones, independientemente del formato en el que se realicen (presencial/online) se deberá acordar la fecha con, al menos, 2 semanas de antelación y en caso de tener que ser cancelada se deberá avisar al menos 5 días antes por cualquier medio.
+
+**¿Quién está y quién debe participar en el proyecto?**
+
+En el proyecto está integrada tanto la organizción como los dueños de los gimnasios que son las personas que principalmente aportan ideas sobre las nuevas funcionalidades que podríamos implementar. 
+
+También pertenecen al proyecto una serie de profesionales del deporte que nos indican las pautas que debemos seguir para recomendar los ejercicios.
+La organización de ejercicios está determinada por ellos y cada grupo muscular está compuesto de una selección de ejercicios relacionados que buscan maximizar las ganancias.
+
+
+### Documentación para las personas
+
+Obtenemos un informe básico donde hemos obtenido los siguientes resultados:
+
+**¿Cómo se realizó la investigación?**
+
+ La investigación se realizó mediante una sereie de preguntas personales a una serie de personas
+
+**¿Cómo se eligieron los participantes?** 
+
+Los elección de participantes no siguió ningún criterio más que la persona no debe tener relación con el gimnasio pero le gustaría empezar.
+
+Lo que los participantes se les pidió que hacer o hablar: Los participantes debieron responder las siguientes.
+
+ - ¿Qué información te gustaría encontrar en una página web de un gimnasio para principiantes?
+ - ¿Qué tipo de información sobre las instalaciones y equipos te resultaría útil antes de inscribirte en un gimnasio?
+ - ¿Qué tipo de contenido te ayudaría a sentirte más cómodo y seguro al comenzar en un gimnasio?
+ - ¿Qué importancia le darías a la disponibilidad de clases grupales y horarios en la página web de un gimnasio?
+ -¿Qué otros recursos o herramientas crees que serían útiles para alguien que está empezando en el mundo del fitness y el gimnasio?
+
+**La información que hemos podido obtener de todo esto es la siguiente**
+
+Los usuarios desean encotnrar información clara y detallada sobre los servicios ofrecidos por el gimnasio, incluyendo las definiciones de entrenamientos y las descripciones de cómo realizar los ejercicios de manera que se evite en la mayor medida llegar a una lesión.
+
+También estás interesados en conocer una variedad de programas de entrenamiento que vayan de caracter más general a otros más específicos, obteniendo información guiada
+
+También es curioso cómo muchos de ellos hacen incacpié en la oferta de actividades grupales, de manera que los usuarios se vean en un ambiente más familiar.
+
+### Documentación para el contenido
+
+
+Planificación de Contenidos y Prioridades
+
+**Formato**
+
+Los ejercicios por grupos musculares y tipos de movimientos se presentarán en formato de lista interactiva y detallada, permitiendo a los usuarios explorar y seleccionar fácilmente los ejercicios de su interés.
+
+Los artículos educativos se organizarán en una biblioteca virtual, accesible mediante un sistema de navegación claro y categorizado.
+
+**Tamaño**
+
+La cantidad de contenido se ajustará a las necesidades de los usuarios, proporcionando información detallada pero concisa sobre cada ejercicio y concepto.
+
+Se evitará el relleno innecesario para garantizar que la información sea relevante y fácil de asimilar.
+
+**Dirigido a audiencias diferentes**
+
+El contenido se adaptará para satisfacer las necesidades de usuarios de diferentes niveles de experiencia y objetivos de fitness, con secciones específicas para principiantes, intermedios y avanzados.
+
+**Tareas**
+
+Se identificarán las tareas principales de los usuarios, como buscar ejercicios específicos o aprender nuevas técnicas, y se proporcionará contenido relevante para facilitar estas actividades.
+
+**Precisión**
+
+Se revisará regularmente el contenido para garantizar su precisión y relevancia, con actualizaciones periódicas según las nuevas tendencias y descubrimientos en el mundo del fitness.
+
+**Cambios a lo largo del tiempo**
+
+Se establecerá un plan para actualizar el contenido según sea necesario, con la capacidad de agregar nuevos ejercicios a medida que evolucionen las necesidades de los usuarios.
+
+**Contenidos Estructurados o No Estructurados**
+
+Se optará por un enfoque estructurado para organizar los ejercicios por grupos musculares y tipos de movimientos, lo que facilitará la navegación y búsqueda para los usuarios.
+
+**Establecer Prioridades a los Contenidos**
+
+Se dará prioridad al contenido esencial, como ejercicios básicos y técnicas fundamentales, antes de abordar contenido más especializado o avanzado.
+Se utilizará un sistema de puntuación para determinar la importancia de cada ejercicio en función de su relevancia, popularidad y beneficio para los usuarios.
+
+**Primero el Contenido Básico**
+
+Se concentrará en desarrollar primero el contenido esencial relacionado con ejercicios fundamentales y técnicas básicas, antes de expandir hacia ejercicios más avanzados y especializados.
+Siguiendo esta planificación de contenidos, se garantizará que el sitio web ofrezca información útil, precisa y relevante para usuarios de todos los niveles de experiencia en fitness.
+
+**Clasificación**
+Se organizará el contenido de la siguiente manera:
+1) Información Institucional (descripción general del sitio y porpósito)
+2) Información de los gimnasios en cuestión
+3) Programas de entrenamiento (rutinas estructuradas por grupos musculares y movimiento)
+4) Ejercicios por grupos musculares (selección de ejercicios por los grupos afectados)
+5) Comunidad y soporte (Foros de discusión, publicación de noticias, ofertas, ...)
+6) Actualizaciones y noticias (Tablón de anuncios)
