@@ -1089,8 +1089,68 @@ La organización de ejercicios está determinada por ellos y cada grupo muscular
 
 ### Documentación para las personas
 
-Obtenemos un informe básico donde hemos obtenido los siguientes resultados:
+**ARQUETIPO DE USUARIO**
 
+Arquetipo de Usuario: Laura, la Entusiasta del Fitness
+
+Descripción:
+
+Laura es una mujer de 30 años apasionada por el fitness y el bienestar. Aunque no es una profesional del fitness, tiene experiencia moderada en entrenamiento y está comprometida con mantener un estilo de vida activo y saludable. Laura busca recursos y orientación para mejorar su rendimiento en el gimnasio y alcanzar sus objetivos de fitness de manera segura y efectiva.
+
+Características:
+
+- Edad: 30 años
+- Género: Femenino
+- Nivel de experiencia en fitness: Moderado
+- Objetivos de fitness: Mejorar su - fuerza, resistencia y flexibilidad, y tonificar su cuerpo.
+- Intereses: Ejercicios de fuerza, entrenamiento funcional, nutrición y bienestar general.
+- Tiempo disponible para entrenar: Entre 3 y 5 veces por semana, preferiblemente por las tardes después del trabajo.
+- Dispositivos: Accede principalmente desde su teléfono inteligente y ocasionalmente desde su computadora portátil en casa.
+
+Necesidades y Expectativas: 
+
+Acceso a una amplia variedad de ejercicios estructurados por grupos musculares y tipos de movimientos para diversificar su rutina de entrenamiento.
+Instrucciones claras y precisas sobre la forma adecuada de realizar cada ejercicio, preferiblemente con vídeos demostrativos.
+
+Recomendaciones de programas de entrenamiento adaptados a sus objetivos personales y nivel de condición física.
+Información sobre nutrición y recomendaciones de dietas equilibradas para complementar su entrenamiento.
+Comunidad y apoyo en línea donde pueda compartir experiencias, hacer preguntas y recibir consejos de otros entusiastas del fitness.
+
+Laura utiliza el sitio web como una herramienta integral para mejorar su conocimiento, desempeño y resultados en el gimnasio, así como para conectarse con una comunidad de personas con intereses similares. Busca información confiable y recursos prácticos que le ayuden a mantenerse motivada y comprometida con su estilo de vida saludable.
+
+**ARQUETIPO DE USUARIO**
+
+
+Arquetipo de Usuario: Juan, el Experimentado del Gimnasio
+
+Descripción:
+
+Juan es un hombre de 45 años con una sólida experiencia en el mundo del fitness y el levantamiento de pesas. Lleva más de 20 años entrenando en el gimnasio de forma regular y tiene un profundo conocimiento sobre diferentes técnicas de entrenamiento, tipos de ejercicios y métodos de progresión. Juan es un verdadero apasionado del fitness y considera su tiempo en el gimnasio como una parte integral de su vida.
+
+Características:
+
+- Edad: 45 años
+- Género: Masculino
+- Nivel de experiencia en fitness: Avanzado
+- Objetivos de fitness: Mantener y mejorar su fuerza, masa muscular y resistencia.
+- Intereses: Levantamiento de pesas, entrenamiento de fuerza, técnicas de entrenamiento avanzadas, nutrición deportiva.
+- Tiempo disponible para entrenar: Entre 5 y 6 veces por semana, generalmente por las mañanas antes del trabajo.
+- Dispositivos: Accede principalmente desde su computadora portátil en casa o desde su teléfono inteligente mientras está en el gimnasio.
+
+Necesidades y Expectativas:
+
+Acceso a información detallada y avanzada sobre técnicas de entrenamiento, métodos de progresión y variaciones de ejercicios para mantener su rutina de entrenamiento fresca y desafiante.
+
+Recursos específicos para levantamiento de pesas y entrenamiento de fuerza, incluyendo programas de entrenamiento avanzados, consejos sobre formación de platos y estrategias para evitar lesiones.
+
+Actualizaciones sobre las últimas tendencias en el mundo del fitness y la investigación científica relacionada con el entrenamiento y la nutrición deportiva.
+
+Posibilidad de compartir su experiencia y conocimiento con otros miembros de la comunidad, así como de recibir retroalimentación y consejos de expertos en el campo.
+
+Herramientas interactivas avanzadas, como calculadoras de macro y micro nutrientes, para optimizar su dieta y su rendimiento en el gimnasio.
+Juan utiliza el sitio web como una fuente confiable de información y recursos avanzados para seguir desafiándose a sí mismo y alcanzar nuevos niveles de rendimiento físico. Busca contenido específico y relevante que le ayude a mantenerse al día con las últimas tendencias en el mundo del fitness y a seguir progresando en su viaje de entrenamiento.
+
+**Informe de usuario**
 **¿Cómo se realizó la investigación?**
 
  La investigación se realizó mediante una sereie de preguntas personales a una serie de personas
@@ -1170,3 +1230,10 @@ Se organizará el contenido de la siguiente manera:
 4) Ejercicios por grupos musculares (selección de ejercicios por los grupos afectados)
 5) Comunidad y soporte (Foros de discusión, publicación de noticias, ofertas, ...)
 6) Actualizaciones y noticias (Tablón de anuncios)
+
+## Ordenación de tarjetas
+
+El método que utilizaremos será el métedo abierto, que consiste en que los participantes agrupen la información dentro de las categorías que ellos consideren, de manera que obtenemos un conjunto de categorías que pueden sernos perfectamente útiles.
+
+![ordenacionPorTarjetas](/imagenes/ordenacion_por_tarjetas.jpg)
+
