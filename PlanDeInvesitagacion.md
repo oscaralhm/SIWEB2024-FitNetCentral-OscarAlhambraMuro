@@ -1294,3 +1294,15 @@ Los ejercicios que se vayan incorporando no variarán ya que a cada usuario pued
 
 
 ## DISÑO DE LA NAVEGACIÓN
+
+**Tipos de navegación que ofrecerá cada tipo de página**
+
+El sitio web tendrá, inicialmente, una barra de navegación horizontal que se extenderá de manera horizontal ofreciendo las opciones principales que puede realizar el usuario. La navegación desplegable se implementará en la barra horizontal de manera que cuando seleccionemos alguna de las categorías obtengamos el despliegue de un segundo nivel donde se nos ofrezca entrar a los ejercicios
+
+La principal ventaja es evitar el uso del click para acceder a la información que está disponible
+
+**Ayudas en la navegación**
+
+La ayuda principal para la navegación será el método de las Migas de Pan, ya que es una ayuda que no es muy invasiva dentro de la interfaz y permite que el usuario sepa en cada momento donde se encuentra y sea capaz de volver a elementos anteriores sin necesidad de tener que comenzar todos el proceso de búsqueda de nuevo.
+
+El método de las Migas de Pan puede descirbirse como un camino que aparece en la parte superior de la pantalla en cualquier momento y ayuda a los usuarios a saber el contexto del lugar en el que se encuentra, la sección a la que pertenece y, por tanto, cómo se encuentran organizados los contenidos.
