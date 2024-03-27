@@ -1237,3 +1237,60 @@ El método que utilizaremos será el métedo abierto, que consiste en que los pa
 
 ![ordenacionPorTarjetas](/imagenes/ordenacion_por_tarjetas.jpg)
 
+## DISEÑO DE LOS CONTENIDOS AI
+
+**Formato**
+
+Cada uno de los ejercicios dispondrá de una descripción detallada a cerca de los pasos a seguir para la realización correcta de los difrentes ejercicios.  A demás, se tendrá una breve descripción sobre los músculos que afecta y cuales peden verse involucrados.
+
+**Audiencia**
+
+Todos los que usuarios que deseen ampliar su conocimiento en el mundo del fitness, ya sean novatos y quieran aprender a realizar los ejercicios desde 0 con una técnica buena, o usuarios expertos que busquen ampliar el catálogo de conociento que tengan
+
+**Contenido**
+
+El contenido se mostrará estructurado en toda la página ya que mantener la información organizada en este tipo contexto es importante para que el usuario encuentre y entienda la información de manera rápida y sencilla.
+
+**Frecuencia de actualización**
+
+Los ejercicios que se vayan incorporando no variarán ya que a cada usuario puede interesarle un tipo de ejercicio u otro en cualquier momemento. Se incorporarán nuevos ejercicios a medida que vayan apareciendo o que sean demandados o sugeridos por los usuarios.
+
+**Sistema de estructuración**
+
+- Según tipo de movimiento
+    - Tracción
+    - Empuje
+    - Torsión
+
+- Según área de entrenamiento
+    - Tronco superior
+    - Tronco inferior
+    - Abdomen
+
+- Según grupos musculares
+    -  Pecho - hombre - triceps
+    -  Espalda - biceps - abdominales
+    -  Isquitibiales - cuadriceps
+    -  Glúteos - cuádriceps
+    -  Gemelos - cuádriceps
+
+- Según músculos aislados
+    - Biceps
+    - Triceps
+    - Pectorales
+    - Glúteos
+    - Isquios
+
+**Estructura de la página**
+
+- Inicio
+- Ejercicios
+- Entrenamientos
+- Contacto
+    - Quiénes somos
+    - Redes sociales
+    - Trabaja con nosotros
+- Buscador
+
+
+## DISÑO DE LA NAVEGACIÓN
