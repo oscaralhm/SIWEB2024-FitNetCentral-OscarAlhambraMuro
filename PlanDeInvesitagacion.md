@@ -1330,7 +1330,7 @@ El método de las Migas de Pan puede descirbirse como un camino que aparece en l
 
 **Página Principal**
 
-![ordenacionPorTarjetas](/imagenes/WireFramePaginaPrincipal.png)
+![ordenacionPorTarjetas](/imagenes/wireFramePaginaPrincipal.png)
 
 **Menú Desplegable**
 
