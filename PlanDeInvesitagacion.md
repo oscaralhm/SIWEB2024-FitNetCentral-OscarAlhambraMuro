@@ -1290,7 +1290,7 @@ Los ejercicios que se vayan incorporando no variarán ya que a cada usuario pued
     - Quiénes somos
     - Redes sociales
     - Trabaja con nosotros
-- Buscador
+- Registro
 
 
 ## DISÑO DE LA NAVEGACIÓN
@@ -1306,3 +1306,32 @@ La principal ventaja es evitar el uso del click para acceder a la información q
 La ayuda principal para la navegación será el método de las Migas de Pan, ya que es una ayuda que no es muy invasiva dentro de la interfaz y permite que el usuario sepa en cada momento donde se encuentra y sea capaz de volver a elementos anteriores sin necesidad de tener que comenzar todos el proceso de búsqueda de nuevo.
 
 El método de las Migas de Pan puede descirbirse como un camino que aparece en la parte superior de la pantalla en cualquier momento y ayuda a los usuarios a saber el contexto del lugar en el que se encuentra, la sección a la que pertenece y, por tanto, cómo se encuentran organizados los contenidos.
+
+**SKETCHES**
+
+**Página Principal**
+![ordenacionPorTarjetas](/imagenes/SketchPaginaPrincipal.png)
+
+**Menú Desplegable**
+![ordenacionPorTarjetas](/imagenes/SketchMenuDesplegable.png)
+
+**Ejercicio**
+![ordenacionPorTarjetas](/imagenes/SketchEjercicio.png)
+
+**Conocenos**
+![ordenacionPorTarjetas](/imagenes/SketchSobreNosotros.png)
+
+
+**WIREFRAMES**
+
+**Página Principal**
+![ordenacionPorTarjetas](/imagenes/WireFramePaginaPrincipal.png)
+
+**Menú Desplegable**
+![ordenacionPorTarjetas](/imagenes/WireFrameMenuDesplegable.png)
+
+**Ejercicio**
+![ordenacionPorTarjetas](/imagenes/WireFrameEjercicio.png)
+
+**Conocenos**
+![ordenacionPorTarjetas](/imagenes/WireFrameSobreNosotros.png)
